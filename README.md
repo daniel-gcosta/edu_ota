@@ -6,3 +6,5 @@ The growth of the urban population in recent decades has revealed increasingly s
 This repository is divided in two files for two distinct proposed elements: an EDU and an Update Server. These Python 3 files allow secure update of an EDU, adapting it to a new configuration setting. Actually, although the proposed architecture is more complex and define operation details for multiple situations, the code here is an initial proof-of-concept implementation that attest that the proposed approach works as expected.
 
 In order to allow flexible reconfiguration procedures, a user can specify the intended new configuration through a builtin functionality in the developed Update Server. This way, the path of a file containing the desired update of the EDU is requested through a specific input present in the server.
+
+Additional information can be requested through the email gustavo.falcao@ifba.edu.br.
