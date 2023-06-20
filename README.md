@@ -1,4 +1,3 @@
-# edu_ota
 An Secure OTA Approach For Flexible Operation of Emergency Detection Units in Smart Cities
 
 The growth of the urban population in recent decades has revealed increasingly serious structural problems in urban environments. These problems may ultimately lead to emergency events associated with danger and negative impacts on life, health, city structures, and the environment. In order to effectively manage various emergency situations, technological strategies are required to address the challenges posed by the heterogeneity and dynamism of urban centers. This repository presents an Over-the-Air (OTA) approach for the flexible operation of emergency detection units in Smart Cities through remote updates. The proposed approach focuses on ensuring security, reliability, and adaptability in the software updates of IoT-based emergency detection units.
